@@ -2,8 +2,9 @@
 implementation of bbc news data project i.e automatic caption generation of bbc news data images
 
 instructions to run:
-prepare an environment with requirements.txt file.
 
-keep the dataset to be used in a directory named 'data' at the root.
+1. prepare an environment with requirements.txt file.
 
-run main.py script to train the data
+2. keep the dataset to be used in a directory named 'data' at the root.
+
+3. run main.py script to train the data
